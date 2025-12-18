@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GodCalculator.ConsoleApp", "GodCalculator.ConsoleApp", "{9A2FA8FE-D609-9B07-3B2C-BF9C283305E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodCalculator.ConsoleApp", "GodCalculator.ConsoleApp\GodCalculator.ConsoleApp\GodCalculator.ConsoleApp.csproj", "{154F4535-2A4C-AE30-541F-78D662F3F4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154F4535-2A4C-AE30-541F-78D662F3F4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154F4535-2A4C-AE30-541F-78D662F3F4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154F4535-2A4C-AE30-541F-78D662F3F4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154F4535-2A4C-AE30-541F-78D662F3F4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{154F4535-2A4C-AE30-541F-78D662F3F4CD} = {9A2FA8FE-D609-9B07-3B2C-BF9C283305E6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C0C773-4855-4978-B90F-69772979A65C}
+	EndGlobalSection
+EndGlobal
